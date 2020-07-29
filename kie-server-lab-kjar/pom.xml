@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.acme</groupId>
   <artifactId>kie-server-lab-devxx</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
   <name>kie-server-lab-kjar</name>
   <description>KIE Server API labs</description>
