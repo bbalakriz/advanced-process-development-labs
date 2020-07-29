@@ -3,8 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.acme</groupId>
-  <artifactId>async-lab-process-kjar</artifactId>
-  <version>1.0.0</version>
+  <artifactId>async-lab-process-devxx</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
   <name>async-lab-process-kjar</name>
   <description>Advanced Process Development - Example for asynchronous execution.</description>
