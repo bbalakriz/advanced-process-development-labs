@@ -696,7 +696,7 @@ kcontext.setVariable("hotel_bookingStatus", hotelBookingResponse.getStatus());]]
           <drools:metaValue><![CDATA[Flight Prebooking]]></drools:metaValue>
         </drools:metaData>
         <drools:metaData name="customAsync">
-          <drools:metaValue><![CDATA[true]]></drools:metaValue>
+          <drools:metaValue><![CDATA[false]]></drools:metaValue>
         </drools:metaData>
         <drools:onEntry-script scriptFormat="http://www.java.com/java">
           <drools:script><![CDATA[flight_booking.setCarrier(flight_carrier);]]></drools:script>
