@@ -154,7 +154,7 @@ kcontext.setVariable("flightCancellation", _flightCancellation);]]></bpmn2:scrip
       <bpmn2:dataInputAssociation id="_PFHGtTqzEemaL6RMMm7zJQ">
         <bpmn2:targetRef>_F141813C-79EF-434A-AB1E-039588AB600D_GroupIdInputX</bpmn2:targetRef>
         <bpmn2:assignment id="_PFHGtjqzEemaL6RMMm7zJQ">
-          <bpmn2:from xsi:type="bpmn2:tFormalExpression" id="_PFHGtzqzEemaL6RMMm7zJQ"><![CDATA[agent]]></bpmn2:from>
+          <bpmn2:from xsi:type="bpmn2:tFormalExpression" id="_PFHGtzqzEemaL6RMMm7zJQ"><![CDATA[kie-server]]></bpmn2:from>
           <bpmn2:to xsi:type="bpmn2:tFormalExpression" id="_PFHGuDqzEemaL6RMMm7zJQ">_F141813C-79EF-434A-AB1E-039588AB600D_GroupIdInputX</bpmn2:to>
         </bpmn2:assignment>
       </bpmn2:dataInputAssociation>
