@@ -197,7 +197,7 @@
       <bpmn2:dataInputAssociation id="__fQyT-PCEeiVTIHNVhedAA">
         <bpmn2:targetRef>_78F4C9D8-25D3-4D28-9E09-3FB5BD049B8F_GroupIdInputX</bpmn2:targetRef>
         <bpmn2:assignment id="__fQyUOPCEeiVTIHNVhedAA">
-          <bpmn2:from xsi:type="bpmn2:tFormalExpression" id="__fQyUePCEeiVTIHNVhedAA"><![CDATA[agent]]></bpmn2:from>
+          <bpmn2:from xsi:type="bpmn2:tFormalExpression" id="__fQyUePCEeiVTIHNVhedAA"><![CDATA[kie-server]]></bpmn2:from>
           <bpmn2:to xsi:type="bpmn2:tFormalExpression" id="__fQyUuPCEeiVTIHNVhedAA">_78F4C9D8-25D3-4D28-9E09-3FB5BD049B8F_GroupIdInputX</bpmn2:to>
         </bpmn2:assignment>
       </bpmn2:dataInputAssociation>
