@@ -268,7 +268,7 @@ kcontext.setVariable("hotel_bookingStatus", hotelBookingResponse.getStatus());]]
       <bpmn2:dataInputAssociation id="_-Y-TkuogEemXsrrwjvC5LQ">
         <bpmn2:targetRef>_955CBE4E-9A56-4088-AE27-68403DA234EE_GroupIdInputX</bpmn2:targetRef>
         <bpmn2:assignment id="_-Y-Tk-ogEemXsrrwjvC5LQ">
-          <bpmn2:from xsi:type="bpmn2:tFormalExpression" id="_-Y-TlOogEemXsrrwjvC5LQ"><![CDATA[agent]]></bpmn2:from>
+          <bpmn2:from xsi:type="bpmn2:tFormalExpression" id="_-Y-TlOogEemXsrrwjvC5LQ"><![CDATA[kie-server]]></bpmn2:from>
           <bpmn2:to xsi:type="bpmn2:tFormalExpression" id="_-Y-TleogEemXsrrwjvC5LQ">_955CBE4E-9A56-4088-AE27-68403DA234EE_GroupIdInputX</bpmn2:to>
         </bpmn2:assignment>
       </bpmn2:dataInputAssociation>
